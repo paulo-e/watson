@@ -34,6 +34,8 @@ TODO
 
 ## License
 
+BSD-3-Clause © Paulo Elienay
+
 MIT © Sherlock Project
 
 Original Creator - [Shen, Jen-Chieh](https://github.com/jcs090218)
