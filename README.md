@@ -3,7 +3,7 @@
 # `Watson`, the Sherlock API
 
 [![Python Ver.](https://img.shields.io/badge/python-%3E=_3.6-green.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: BSD 3-Clause](https://img.shields.io/badge/license-BSD%203--Clause-blue.svg)](https://github.com/TechSmith/hyde/blob/master/LICENSE.txt)
 
 Api for sherlock module.
 
