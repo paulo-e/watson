@@ -17,7 +17,7 @@ order to do development to this project.
 
 ```sh
 # clone the repo
-$ git clone https://github.com/sherlock-project/api.git
+$ git clone https://github.com/paulo-e/watson.git --recursive
 
 # change the working directory to api
 $ cd api
