@@ -1,6 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/27065646/53551960-ae4dff80-3b3a-11e9-9075-cef786c69364.png"/>
 
-# Sherlock API
+# `Watson`, the Sherlock API
 
 [![Python Ver.](https://img.shields.io/badge/python-%3E=_3.6-green.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -26,22 +26,11 @@ $ cd api
 $ python3 -m pip install -r requirements.txt
 ```
 
-*P.S. Please use `python` instead of `python3` if you are on Windows system*
+_P.S. Please use `python` instead of `python3` if you are on Windows system_
 
 ### Run API Server
 
-```sh
-# propagate modules
-$ python3 manage.py migrate
-
-# in the root of project diretory..
-$ python3 manage.py runserver 0.0.0.0:8000
-```
-
-Start you browser and type [127.0.0.1:8000](http://127.0.0.1:8000/) in as
-your target URL and hit return.
-
-Now you should able to test your Sherlock API through DRF browser interface!
+TODO
 
 ## License
 
